@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="126" viewBox="0 0 900 126" role="img" aria-label="Animated technology stack">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111c32"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000" flood-opacity=".30"/>
+    </filter>
+    <style>
+      .card { fill:#172338; stroke:#2a3b58; stroke-width:1; }
+      .label { fill:#dce7f7; font:600 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; text-anchor:middle; }
+      .mark { font:800 22px -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; text-anchor:middle; dominant-baseline:middle; }
+      @media (prefers-color-scheme: light) {
+        .card { fill:#ffffff; stroke:#d8e1ee; }
+        .label { fill:#172338; }
+      }
+    </style>
+
+    <g id="html">
+      <rect class="card" width="108" height="106" rx="16" filter="url(#shadow)"/>
+      <path d="M36 20h36l-3.3 38-14.7 5-14.7-5z" fill="#E34F26"/>
+      <path d="M54 24v34l11-3.7L67.5 24z" fill="#F06529"/>
+      <text x="54" y="43" class="mark" fill="#fff">5</text>
+      <text x="54" y="87" class="label">HTML5</text>
+    </g>
+    <g id="css">
+      <rect class="card" width="108" height="106" rx="16" filter="url(#shadow)"/>
+      <path d="M36 20h36l-3.3 38-14.7 5-14.7-5z" fill="#1572B6"/>
+      <path d="M54 24v34l11-3.7L67.5 24z" fill="#33A9DC"/>
+      <text x="54" y="43" class="mark" fill="#fff">3</text>
+      <text x="54" y="87" class="label">CSS3</text>
+    </g>
+    <g id="js">
+      <rect class="card" width="108" height="106" rx="16" filter="url(#shadow)"/>
+      <rect x="31" y="19" width="46" height="46" rx="7" fill="#F7DF1E"/>
+      <text x="54" y="46" class="mark" fill="#111">JS</text>
+      <text x="54" y="87" class="label">JavaScript</text>
+    </g>
+    <g id="react">
+      <rect class="card" width="108" height="106" rx="16" filter="url(#shadow)"/>
+      <g transform="translate(54 42)" fill="none" stroke="#61DAFB" stroke-width="2.6">
+        <ellipse rx="25" ry="9"/><ellipse rx="25" ry="9" transform="rotate(60)"/><ellipse rx="25" ry="9" transform="rotate(120)"/>
+        <circle r="4" fill="#61DAFB" stroke="none"/>
+      </g>
+      <text x="54" y="87" class="label">React</text>
+    </g>
+    <g id="bootstrap">
+      <rect class="card" width="108" height="106" rx="16" filter="url(#shadow)"/>
+      <rect x="29" y="19" width="50" height="46" rx="10" fill="#7952B3"/>
+      <text x="54" y="44" class="mark" fill="#fff">B</text>
+      <text x="54" y="87" class="label">Bootstrap</text>
+    </g>
+    <g id="git">
+      <rect class="card" width="108" height="106" rx="16" filter="url(#shadow)"/>
+      <rect x="36" y="24" width="36" height="36" rx="5" fill="#F05032" transform="rotate(45 54 42)"/>
+      <path d="M46 34l16 16M46 34h11v11" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="46" cy="34" r="3.3" fill="#fff"/><circle cx="62" cy="50" r="3.3" fill="#fff"/><circle cx="57" cy="45" r="3.3" fill="#fff"/>
+      <text x="54" y="87" class="label">Git</text>
+    </g>
+    <g id="github">
+      <rect class="card" width="108" height="106" rx="16" filter="url(#shadow)"/>
+      <circle cx="54" cy="42" r="24" fill="#f4f6f8"/>
+      <path d="M54 22c-11 0-20 9-20 20 0 8.8 5.7 16.2 13.6 18.8 1 .2 1.4-.4 1.4-1v-3.8c-5.5 1.2-6.7-2.3-6.7-2.3-.9-2.3-2.2-2.9-2.2-2.9-1.8-1.2.1-1.2.1-1.2 2 .1 3.1 2.1 3.1 2.1 1.8 3.1 4.7 2.2 5.8 1.7.2-1.3.7-2.2 1.3-2.7-4.4-.5-9-2.2-9-9.9 0-2.2.8-4 2.1-5.4-.2-.5-.9-2.6.2-5.3 0 0 1.7-.5 5.5 2.1a19 19 0 0110 0c3.8-2.6 5.5-2.1 5.5-2.1 1.1 2.7.4 4.8.2 5.3a7.7 7.7 0 012.1 5.4c0 7.7-4.7 9.4-9.1 9.9.7.6 1.3 1.8 1.3 3.7v5.5c0 .6.4 1.2 1.4 1C68.3 58.2 74 50.8 74 42c0-11-9-20-20-20z" fill="#181717"/>
+      <text x="54" y="87" class="label">GitHub</text>
+    </g>
+    <g id="python">
+      <rect class="card" width="108" height="106" rx="16" filter="url(#shadow)"/>
+      <path d="M54 19c-15 0-14 7-14 7v9h14v3H34s-9-1-9 14 8 14 8 14h7v-9s0-8 8-8h13s7 0 7-7V28s1-9-14-9z" fill="#3776AB"/>
+      <path d="M54 65c15 0 14-7 14-7v-9H54v-3h20s9 1 9-14-8-14-8-14h-7v9s0 8-8 8H47s-7 0-7 7v14s-1 9 14 9z" fill="#FFD43B" transform="translate(0 7)"/>
+      <circle cx="48" cy="27" r="2" fill="#fff"/><circle cx="61" cy="70" r="2" fill="#fff"/>
+      <text x="54" y="87" class="label">Python</text>
+    </g>
+  </defs>
+
+  <rect width="900" height="126" rx="18" fill="url(#bg)"/>
+  <g transform="translate(8 10)">
+    <g>
+      <use href="#html" x="0"/><use href="#css" x="120"/><use href="#js" x="240"/><use href="#react" x="360"/>
+      <use href="#bootstrap" x="480"/><use href="#git" x="600"/><use href="#github" x="720"/><use href="#python" x="840"/>
+      <use href="#html" x="960"/><use href="#css" x="1080"/><use href="#js" x="1200"/><use href="#react" x="1320"/>
+      <use href="#bootstrap" x="1440"/><use href="#git" x="1560"/><use href="#github" x="1680"/><use href="#python" x="1800"/>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-960 0" dur="20s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
