@@ -6,7 +6,9 @@
 
 I build responsive, accessible, and user-friendly web interfaces using modern frontend technologies.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mohamedshawkeyamar-181717?style=for-the-badge&logo=github)](https://github.com/Mohamedshawkeyamar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shawkey-166323232)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.aboamar.5492)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamedshawkeyamar)
 
 </div>
 
@@ -24,14 +26,7 @@ I build responsive, accessible, and user-friendly web interfaces using modern fr
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Animated Tech Stack](./tech-stack.svg)
 
 </div>
 
@@ -55,24 +50,13 @@ My personal portfolio showcasing my skills, projects, and frontend development w
 
 [View Repository](https://github.com/Mohamedshawkeyamar/portfolio)
 
-## GitHub Activity
-
-<div align="center">
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedshawkeyamar&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedshawkeyamar&layout=compact&theme=transparent&hide_border=true)
-
-</div>
-
 ## Contact
 
 I'm open to frontend development opportunities, freelance projects, and collaborations.
 
+- LinkedIn: [Mohamed Shawkey](https://www.linkedin.com/in/mohamed-shawkey-166323232)
+- Facebook: [Mohamed Shawkey](https://www.facebook.com/mohamed.aboamar.5492)
 - GitHub: [Mohamedshawkeyamar](https://github.com/Mohamedshawkeyamar)
-- LinkedIn: Add your LinkedIn profile URL here
-- Portfolio: Add your live portfolio URL here
-- Email: Add your professional email address here
 
 ---
 
@@ -81,4 +65,3 @@ I'm open to frontend development opportunities, freelance projects, and collabor
 Thanks for visiting my profile!
 
 </div>
-
