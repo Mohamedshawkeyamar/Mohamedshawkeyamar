@@ -1,67 +1,123 @@
 <div align="center">
 
-# Hi, I'm Mohamed Shawkey 👋
+![Mohamed Shawkey — Frontend Developer](./hero.svg)
 
-### Frontend Developer
-
-I build responsive, accessible, and user-friendly web interfaces using modern frontend technologies.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shawkey-166323232)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.aboamar.5492)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamedshawkeyamar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Shawkey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shawkey-166323232)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.aboamar.5492)
+[![GitHub](https://img.shields.io/badge/GitHub-Mohamedshawkeyamar-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamedshawkeyamar)
 
 </div>
 
----
+## 👨‍💻 About Me
 
-## About Me
+```javascript
+const mohamed = {
+  role: "Frontend Developer",
+  location: "Egypt",
+  focus: ["Responsive Interfaces", "Clean UI", "User Experience"],
+  currentlyLearning: ["React.js", "Modern JavaScript", "REST APIs"],
+  alsoEnjoys: ["Teaching Programming", "Problem Solving"],
+  openTo: ["Frontend Roles", "Freelance Projects", "Collaboration"],
+};
+```
 
-- 💻 Frontend Developer focused on clean and responsive web experiences
-- 🌱 Improving my skills in JavaScript, React.js, and modern UI development
-- 🛠️ Interested in turning designs and ideas into practical web applications
-- 🤝 Open to frontend opportunities and collaboration on useful projects
-- 📍 Based in Egypt
+I enjoy turning ideas and designs into practical, responsive web experiences. My current focus is strengthening my React and JavaScript skills while building portfolio-ready projects with clean structure and clear documentation.
 
-## Tech Stack
+## 💼 Experience Focus
+
+| Role | Environment | Main Focus |
+|---|---|---|
+| Frontend Developer | Project-based work | Responsive websites, interface implementation, and reusable UI |
+| Programming Instructor | Coding education | Explaining Python and web fundamentals through practical examples |
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-![Animated Tech Stack](./tech-stack.svg)
+![Animated Technology Stack](./tech-stack.svg)
 
 </div>
 
-## Featured Projects
+| Area | Technologies |
+|---|---|
+| Frontend Core | HTML5, CSS3, JavaScript |
+| UI Development | React.js, Bootstrap, Responsive Design |
+| Programming | JavaScript, Python |
+| Tools | Git, GitHub, VS Code |
 
-### 🛒 E-commerce Website
+## 🚀 Featured Projects
 
-A responsive e-commerce interface built with a focus on clean layout, product presentation, and usability.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 E-commerce Website</h3>
+      <p>A responsive storefront interface focused on clear product presentation, practical layout, and a smooth browsing experience.</p>
+      <p><strong>Focus:</strong> HTML, CSS, responsive UI</p>
+      <a href="https://github.com/Mohamedshawkeyamar/E-commerce">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Personal Portfolio</h3>
+      <p>A personal website created to present my skills, projects, experience, and contact information in a professional way.</p>
+      <p><strong>Focus:</strong> Frontend development, UI presentation</p>
+      <a href="https://github.com/Mohamedshawkeyamar/portfolio">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📰 News Aggregator</h3>
+      <p>An application built to collect and organize news content in a simple, accessible structure.</p>
+      <p><strong>Focus:</strong> Java, application logic</p>
+      <a href="https://github.com/Mohamedshawkeyamar/Newsaggregator">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Chatbot — Next Build</h3>
+      <p>A lightweight web chatbot planned with a Python backend and a clean browser-based user interface.</p>
+      <p><strong>Status:</strong> Planning and development</p>
+      <em>Repository coming soon</em>
+    </td>
+  </tr>
+</table>
 
-[View Repository](https://github.com/Mohamedshawkeyamar/E-commerce)
+## 🧭 Current Roadmap
 
-### 📰 News Aggregator
+```mermaid
+flowchart LR
+    A[Frontend Core] --> B[Modern JavaScript]
+    B --> C[React Components]
+    B --> D[REST APIs]
+    C --> E[Portfolio Projects]
+    D --> E
+    E --> F[Frontend Opportunities]
+```
 
-An application designed to collect and organize news content in a simple and accessible experience.
+## 📌 What I'm Working On
 
-[View Repository](https://github.com/Mohamedshawkeyamar/Newsaggregator)
+- Improving my portfolio and project documentation
+- Building more complete JavaScript and React projects
+- Creating an AI chatbot using Python and web technologies
+- Practicing accessible and responsive interface development
+- Writing cleaner commits and project READMEs
 
-### 🌐 Personal Portfolio
+## 🤝 Open to Opportunities
 
-My personal portfolio showcasing my skills, projects, and frontend development work.
+```text
+✓ Frontend Developer roles
+✓ Remote and on-site opportunities
+✓ Freelance website projects
+✓ Collaboration on useful open-source projects
+✓ Continuous learning and technical growth
+```
 
-[View Repository](https://github.com/Mohamedshawkeyamar/portfolio)
+## 📬 Let's Connect
 
-## Contact
+If you have an opportunity, project idea, or collaboration in mind, feel free to reach out.
 
-I'm open to frontend development opportunities, freelance projects, and collaborations.
-
-- LinkedIn: [Mohamed Shawkey](https://www.linkedin.com/in/mohamed-shawkey-166323232)
-- Facebook: [Mohamed Shawkey](https://www.facebook.com/mohamed.aboamar.5492)
-- GitHub: [Mohamedshawkeyamar](https://github.com/Mohamedshawkeyamar)
-
----
+- [LinkedIn — Mohamed Shawkey](https://www.linkedin.com/in/mohamed-shawkey-166323232)
+- [Facebook — Mohamed Shawkey](https://www.facebook.com/mohamed.aboamar.5492)
+- [GitHub — Mohamedshawkeyamar](https://github.com/Mohamedshawkeyamar)
 
 <div align="center">
 
-Thanks for visiting my profile!
+![Let's build something useful](./footer.svg)
 
 </div>
