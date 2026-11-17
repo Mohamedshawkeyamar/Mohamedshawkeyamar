@@ -1,6 +1,6 @@
 <div align="center">
 
-![Mohmed Shawkey — Software Engineer & Frontend Developer](./hero.svg)
+![Mohmed Shawkey — Junior Software Engineer & Frontend Developer](./hero.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Shawkey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shawkey-166323232)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.aboamar.5492)
@@ -34,7 +34,7 @@ I enjoy solving practical problems, learning how software systems work together,
 
 | Role / Background | Environment | Main Focus |
 |---|---|---|
-| Software Development | Academic and independent projects | Application logic, databases, APIs, Java and Python fundamentals |
+| Software Development | Hands-on software projects | Application logic, databases, APIs, Java and Python fundamentals |
 | Freelance Frontend Developer | Project-based work | React interfaces, responsive web applications, and REST API integration |
 | Programming Instructor | iSchool and freelance teaching | Python, web development, AI fundamentals, coding exercises, and debugging |
 | IT Trainee | Inscription Development · Sep–Dec 2025 | Windows setup, troubleshooting, and foundational IT support |
