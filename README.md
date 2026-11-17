@@ -1,10 +1,12 @@
 <div align="center">
 
-![Mohamed Shawkey — Frontend Developer](./hero.svg)
+![Mohmed Shawkey — Software Engineer & Frontend Developer](./hero.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Shawkey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shawkey-166323232)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.aboamar.5492)
 [![GitHub](https://img.shields.io/badge/GitHub-Mohamedshawkeyamar-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamedshawkeyamar)
+
+**Junior Software Engineer | Frontend Developer | Python & AI**
 
 </div>
 
@@ -12,23 +14,30 @@
 
 ```javascript
 const mohamed = {
-  role: "Frontend Developer",
-  location: "Egypt",
-  focus: ["Responsive Interfaces", "Clean UI", "User Experience"],
-  currentlyLearning: ["React.js", "Modern JavaScript", "REST APIs"],
-  alsoEnjoys: ["Teaching Programming", "Problem Solving"],
-  openTo: ["Frontend Roles", "Freelance Projects", "Collaboration"],
+  name: "Mohmed Shawkey Ketana Ahmed",
+  role: "Junior Software Engineer | Frontend Developer",
+  location: "Giza, Egypt",
+  background: "Computer and Information Technology Graduate",
+  focus: ["Software Development", "Web Applications", "API Integration"],
+  tech: ["Python", "JavaScript", "Java", "React.js", "SQL"],
+  interests: ["Applied AI", "Software Design", "Problem Solving"],
+  learningGoals: ["Python Automation", "AI Integration", "Software Architecture"],
+  openTo: ["Junior Software Engineer Roles", "Frontend Roles", "Collaboration"],
 };
 ```
 
-I enjoy turning ideas and designs into practical, responsive web experiences. My current focus is strengthening my React and JavaScript skills while building portfolio-ready projects with clean structure and clear documentation.
+I'm a Computer and Information Technology graduate with hands-on experience in web development, REST API integration, and programming instruction. My projects span responsive React interfaces, PHP/MySQL applications, Java networking, and an AI-assisted university learning platform that includes question generation.
+
+I enjoy solving practical problems, learning how software systems work together, and building maintainable applications. I'm expanding my software engineering foundation and exploring **Python automation** and **AI integration** as my next areas of growth.
 
 ## 💼 Experience Focus
 
-| Role | Environment | Main Focus |
+| Role / Background | Environment | Main Focus |
 |---|---|---|
-| Frontend Developer | Project-based work | Responsive websites, interface implementation, and reusable UI |
-| Programming Instructor | Coding education | Explaining Python and web fundamentals through practical examples |
+| Software Development | Academic and independent projects | Application logic, databases, APIs, Java and Python fundamentals |
+| Freelance Frontend Developer | Project-based work | React interfaces, responsive web applications, and REST API integration |
+| Programming Instructor | iSchool and freelance teaching | Python, web development, AI fundamentals, coding exercises, and debugging |
+| IT Trainee | Inscription Development · Sep–Dec 2025 | Windows setup, troubleshooting, and foundational IT support |
 
 ## 🧰 Tech Stack
 
@@ -38,79 +47,100 @@ I enjoy turning ideas and designs into practical, responsive web experiences. My
 
 </div>
 
-| Area | Technologies |
+| Area | Technologies & Concepts |
 |---|---|
-| Frontend Core | HTML5, CSS3, JavaScript |
-| UI Development | React.js, Bootstrap, Responsive Design |
-| Programming | JavaScript, Python |
-| Tools | Git, GitHub, VS Code |
+| Programming | Python, JavaScript (ES6+), Java, PHP, SQL |
+| Frontend Development | HTML5, CSS3, React.js, Bootstrap, Tailwind CSS, Responsive Design |
+| Backend & Integration | REST APIs, JSON, PHP/MySQL applications, Client–Server Concepts |
+| Data & Applied AI | MySQL, Pandas, NumPy, Scikit-learn, AI-Assisted Question Generation |
+| Software Engineering | OOP, Data Structures, Algorithms, Design Patterns, Debugging, Multithreading Fundamentals |
+| Developer Tools | Git, GitHub, VS Code, PyCharm, Postman, Linux Basics |
 
 ## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 E-commerce Website</h3>
-      <p>A responsive storefront interface focused on clear product presentation, practical layout, and a smooth browsing experience.</p>
-      <p><strong>Focus:</strong> HTML, CSS, responsive UI</p>
-      <a href="https://github.com/Mohamedshawkeyamar/E-commerce">View Repository →</a>
+      <h3>🎓 Gateway System</h3>
+      <p>A course and training management platform developed for a real organization. I contributed responsive React-based interfaces, backend API integration, and deployment collaboration.</p>
+      <p><strong>Focus:</strong> React.js, JavaScript, REST APIs, Web Application Integration</p>
+      <a href="https://github.com/Mohamedshawkeyamar/Gateway-System-Showcase">View Public Showcase →</a>
+      <p><em>Showcase only; application source code remains private.</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Personal Portfolio</h3>
-      <p>A personal website created to present my skills, projects, experience, and contact information in a professional way.</p>
-      <p><strong>Focus:</strong> Frontend development, UI presentation</p>
-      <a href="https://github.com/Mohamedshawkeyamar/portfolio">View Repository →</a>
+      <h3>🧠 University Smart Book System</h3>
+      <p>My graduation project (A+): a smart learning platform featuring AI-assisted question generation and interactive educational content. I contributed to interfaces, data processing, and application integration.</p>
+      <p><strong>Focus:</strong> React.js, Python, AI-Assisted Features, MySQL</p>
+      <em>Academic project</em>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📰 News Aggregator</h3>
-      <p>An application built to collect and organize news content in a simple, accessible structure.</p>
-      <p><strong>Focus:</strong> Java, application logic</p>
-      <a href="https://github.com/Mohamedshawkeyamar/Newsaggregator">View Repository →</a>
+      <h3>💈 Barber Shop Booking System</h3>
+      <p>A booking and queue management application for a barber shop, built around practical reservation workflows and database-backed operations.</p>
+      <p><strong>Focus:</strong> PHP, MySQL, Bootstrap, HTML, CSS</p>
+      <a href="https://github.com/Mohamedshawkeyamar/barber-shop-booking-system">View Repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 AI Chatbot — Next Build</h3>
-      <p>A lightweight web chatbot planned with a Python backend and a clean browser-based user interface.</p>
-      <p><strong>Status:</strong> Planning and development</p>
-      <em>Repository coming soon</em>
+      <h3>🎮 Multiplayer Quiz Game</h3>
+      <p>A Java quiz application with real-time client–server communication and concurrent player handling using sockets and threads.</p>
+      <p><strong>Focus:</strong> Java, Networking, Multithreading, OOP</p>
+      <em>Academic project</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 E-commerce Website</h3>
+      <p>A responsive storefront interface focused on product presentation, practical layouts, and browser-friendly navigation.</p>
+      <p><strong>Focus:</strong> HTML, CSS, Responsive UI</p>
+      <a href="https://github.com/Mohamedshawkeyamar/E-commerce">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Personal Portfolio</h3>
+      <p>A personal website highlighting projects, technologies, experience, and contact information.</p>
+      <p><strong>Focus:</strong> HTML, CSS, JavaScript, UI Presentation</p>
+      <a href="https://github.com/Mohamedshawkeyamar/portfolio">View Repository →</a>
     </td>
   </tr>
 </table>
+
+**Additional project:** [📰 News Aggregator — Java application](https://github.com/Mohamedshawkeyamar/Newsaggregator)
 
 ## 🧭 Current Roadmap
 
 ```mermaid
 flowchart LR
-    A[Frontend Core] --> B[Modern JavaScript]
-    B --> C[React Components]
-    B --> D[REST APIs]
-    C --> E[Portfolio Projects]
-    D --> E
-    E --> F[Frontend Opportunities]
+  A[Software Engineering Fundamentals] --> B[Python & OOP]
+  B --> C[Data Structures & Design Patterns]
+  C --> D[APIs & Databases]
+  D --> E[Python Automation Projects]
+  D --> F[Applied AI Integration]
+  E --> G[Software Engineering Roles]
+  F --> G
 ```
 
 ## 📌 What I'm Working On
 
-- Improving my portfolio and project documentation
-- Building more complete JavaScript and React projects
-- Creating an AI chatbot using Python and web technologies
-- Practicing accessible and responsive interface development
-- Writing cleaner commits and project READMEs
+- Strengthening problem-solving, data structures, algorithms, and software design fundamentals.
+- Improving existing project code, documentation, and GitHub showcases.
+- Building more complete web applications with APIs and databases.
+- **Next learning goal:** Create a Python automation project for data processing and reporting.
+- **Planned project:** Build a small AI chatbot with a Python backend and a web interface.
 
 ## 🤝 Open to Opportunities
 
 ```text
+✓ Junior Software Engineer roles
 ✓ Frontend Developer roles
 ✓ Remote and on-site opportunities
-✓ Freelance website projects
-✓ Collaboration on useful open-source projects
-✓ Continuous learning and technical growth
+✓ Freelance web development projects
+✓ Collaboration on practical software and open-source projects
+✓ Continued learning in Python, AI, and automation
 ```
 
 ## 📬 Let's Connect
 
-If you have an opportunity, project idea, or collaboration in mind, feel free to reach out.
+If you have a software engineering opportunity, a project idea, or a collaboration in mind, feel free to reach out.
 
 - [LinkedIn — Mohamed Shawkey](https://www.linkedin.com/in/mohamed-shawkey-166323232)
 - [Facebook — Mohamed Shawkey](https://www.facebook.com/mohamed.aboamar.5492)
